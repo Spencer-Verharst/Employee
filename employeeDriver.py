@@ -2,8 +2,6 @@
 #
 # Name: Spencer Verharst
 # Course: COSC 2110 Computer Languages: Python
-# Assignment: grapevines.py
-# Due Date: 01/07/2025
 # Description:
 # This program does variuos things such as adding, deleteing, and loading to a binary file using classes.
 #
@@ -261,3 +259,4 @@ Menu
 Enter your choice: 5'''
 
 #****************************************************************************************************
+
